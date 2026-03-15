@@ -1,10 +1,12 @@
-## Hi there 👋
+
     
-    I'm Ari, a multidisciplinary professional with expertise spanning **Design**, **Data Science**, and **Engineering**. I thrive on building innovative solutions and bringing ideas to life through a blend of creative design, insightful data analysis, and robust engineering practices.
+    ---
     
-    I've worked on exciting projects including:
-    - **MindScape**
-    - **AegisFlow**
+    ### 🧪 The Science Lab
     
-    I'm passionate about leveraging technology to solve complex problems and create meaningful impact.
+    I'm also exploring and developing projects in scientific computing and simulation:
+    
+    -   **[Aerosol-Logic](https://github.com/Arigitshub/Aerosol-Logic)**: A simulation engine for printed hardware logic and Aerosol Jet Printing.
+    -   **[Metathesis-Sim](https://github.com/Arigitshub/Metathesis-Sim)**: A green tech dashboard for simulating the molecular degradation and reconstruction of polymers using Trisulfide Metathesis.
+    -   **[Fine-Structure-Solver](https://github.com/Arigitshub/Fine-Structure-Solver)**: A physics modeling library for visualizing atomic force densities and investigating the Fine Structure Constant using WebGL.
     
